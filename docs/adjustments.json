@@ -1,0 +1,24 @@
+{
+  "behify-01.json": [],
+  "behify-02.json": [],
+  "behify-03.json": [
+    "Bind dokodemo-door inbound (port 10853) to localhost",
+    "Replace missing DNS tag doh-wrap-frag-out with existing dns-frag-out (needs runtime verification)"
+  ],
+  "behify-04.json": [
+    "Bind dokodemo-door inbound (port 10853) to localhost"
+  ],
+  "behify-05.json": [
+    "Bind dokodemo-door inbound (port 10853) to localhost",
+    "Replace missing DNS tag doh-wrap-frag-out with existing dns-frag-out (needs runtime verification)",
+    "Turn off debug/DNS logging in public release profile"
+  ],
+  "behify-06.json": [
+    "Bind dokodemo-door inbound (port 10853) to localhost",
+    "Replace missing DNS tag doh-wrap-frag-out with existing dns-frag-out (needs runtime verification)"
+  ],
+  "behify-07.json": [
+    "Bind dokodemo-door inbound (port 10853) to localhost",
+    "Replace missing DNS tag doh-wrap-frag-out with existing dns-frag-out (needs runtime verification)"
+  ]
+}
